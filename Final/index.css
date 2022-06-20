@@ -1,0 +1,47 @@
+body {
+    font-family: DFKai-sb;
+    background-color: rgb(153, 178, 245);
+}
+
+header {
+    background-color: rgb(74, 74, 226);
+    height: 100px;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    font-size: 64px;
+    text-align: center;
+    line-height: 100px;
+}
+
+nav {
+    line-height: 25px;
+}
+
+#list01>li {
+    display: inline;
+    margin-right: 25px;
+}
+
+section {
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#sec01 {
+    background-color: aliceblue;
+    border: 3px dotted;
+}
+
+#sec02 {
+    background-color: rgb(133, 206, 255);
+    border: 3px solid rgb(160, 233, 255);
+}
+
+#sec03 {
+    background-color: rgb(64, 64, 255);
+    border: 3px dotted;
+}
